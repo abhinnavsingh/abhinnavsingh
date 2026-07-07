@@ -50,7 +50,7 @@ Currently looking for opportunities where I can contribute, learn, and grow as a
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
 
 </p>
 
