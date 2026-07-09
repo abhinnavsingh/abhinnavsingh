@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,50:6A5ACD,100:7B68EE&text=Abhinav%20Singh&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&duration=3500&center=true&vCenter=true&width=900&color=7B68EE&lines=Data+Analyst;Python+Developer;SQL+%7C+Power+BI+%7C+Excel;Machine+Learning+Enthusiast;Turning+Data+into+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&duration=3500&center=true&vCenter=true&width=900&color=7B68EE&lines=Data+Analyst+&+Scientist;Python+Developer;SQL+%7C+Power+BI+%7C+Excel;Machine+Learning;Turning+Data+into+Insights)](https://git.io/typing-svg)
 
 </div>
 
